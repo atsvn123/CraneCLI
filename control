@@ -1,4 +1,4 @@
-Package: com.iostool.tikvip-cli
+Package: com.iostool.tikvipcli
 Name: tikvip-cli
 Version: 3.0.0
 Architecture: iphoneos-arm
