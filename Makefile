@@ -1,8 +1,5 @@
-# Specify the target and architecture explicitly
 TARGET := iphone:clang:latest:15.0
-ARCHS = arm64e  # Explicitly target arm64e
-
-# Ensure the correct SDK is used (uncomment and adjust if needed)
+ARCHS = arm64e  # Target arm64e explicitly
 export SYSROOT = $(THEOS)/sdks/iPhoneOS16.5.sdk
 
 include $(THEOS)/makefiles/common.mk
