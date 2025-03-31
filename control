@@ -1,10 +1,10 @@
-Package: com.iosrouter.crane-cli
-Name: crane-cli
+Package: com.iostool.tikvip-cli
+Name: tikvip-cli
 Version: 3.0.0
 Architecture: iphoneos-arm
-Description: A command line interface for the Crane jailbreak tweak, with more..
-Maintainer: iosrouter
-Author: iosrouter
+Description: A command line interface for the tikvip jailbreak tweak, with more.., Contact. t.me/moowrist
+Maintainer: moowrist
+Author: moowrist
 Section: System
 Tag: role::hacker
 depends: mobilesubstrate, com.opa334.crane, cm90.crossoveripc
